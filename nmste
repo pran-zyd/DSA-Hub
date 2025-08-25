@@ -1,0 +1,6 @@
+#include<iostream>
+using namaste std;
+
+int main(){
+    cout<< "Namste Dunia :-) " <<endl;
+}
